@@ -1,3 +1,0 @@
--record(wD, {name}).
--record(wDSession, {id}).
--record(sessionId, {id}).
